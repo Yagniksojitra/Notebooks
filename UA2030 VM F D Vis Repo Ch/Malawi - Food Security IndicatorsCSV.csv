@@ -1,0 +1,347 @@
+Iso3,Area Code,Area,Item Code,Item,Element Code,Element,StartYear,EndYear,Year Code,Year,Unit,Value,Flag
+#country+code+v_iso3,,#country+name,#indicator+code,#indicator+name,,,#date+year+start,#date+year+end,,,#indicator+type,#indicator+num,
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,105,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,105,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,105,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,104,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,104,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,105,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,107,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,109,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,110,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,110,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,110,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,110,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,111,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,113,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,115,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,115,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,115,F
+MWI,130,Malawi,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,2016,2018,20162018,2016-2018,%,115,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,1999,2001,19992001,1999-2001,I$ per person,137,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2000,2002,20002002,2000-2002,I$ per person,133,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2001,2003,20012003,2001-2003,I$ per person,128,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2002,2004,20022004,2002-2004,I$ per person,119,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2003,2005,20032005,2003-2005,I$ per person,117,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2004,2006,20042006,2004-2006,I$ per person,122,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2005,2007,20052007,2005-2007,I$ per person,133,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2006,2008,20062008,2006-2008,I$ per person,148,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2007,2009,20072009,2007-2009,I$ per person,158,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2008,2010,20082010,2008-2010,I$ per person,161,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2009,2011,20092011,2009-2011,I$ per person,167,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2010,2012,20102012,2010-2012,I$ per person,170,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2011,2013,20112013,2011-2013,I$ per person,178,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2012,2014,20122014,2012-2014,I$ per person,172,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2013,2015,20132015,2013-2015,I$ per person,158,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2014,2016,20142016,2014-2016,I$ per person,139,F
+MWI,130,Malawi,21011,Average value of food production (constant 2004-2006 I$/cap) (3-year average),6122,Value,2015,2017,20152017,2015-2017,I$ per person,87,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,1999,2001,19992001,1999-2001,%,75,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2000,2002,20002002,2000-2002,%,74,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2001,2003,20012003,2001-2003,%,73,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2002,2004,20022004,2002-2004,%,73,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2003,2005,20032005,2003-2005,%,73,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2004,2006,20042006,2004-2006,%,73,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2005,2007,20052007,2005-2007,%,72,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2006,2008,20062008,2006-2008,%,71,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2007,2009,20072009,2007-2009,%,71,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2008,2010,20082010,2008-2010,%,70,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2009,2011,20092011,2009-2011,%,71,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2010,2012,20102012,2010-2012,%,71,F
+MWI,130,Malawi,21012,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",6121,Value,2011,2013,20112013,2011-2013,%,71,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,1999,2001,19992001,1999-2001,g/capita/day,55.7,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2000,2002,20002002,2000-2002,g/capita/day,56,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2001,2003,20012003,2001-2003,g/capita/day,56,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2002,2004,20022004,2002-2004,g/capita/day,56,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2003,2005,20032005,2003-2005,g/capita/day,56,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2004,2006,20042006,2004-2006,g/capita/day,57,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2005,2007,20052007,2005-2007,g/capita/day,58.4,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2006,2008,20062008,2006-2008,g/capita/day,60,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2007,2009,20072009,2007-2009,g/capita/day,60.3,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2008,2010,20082010,2008-2010,g/capita/day,61,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2009,2011,20092011,2009-2011,g/capita/day,62,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2010,2012,20102012,2010-2012,g/capita/day,63,F
+MWI,130,Malawi,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,2011,2013,20112013,2011-2013,g/capita/day,63.7,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,1999,2001,19992001,1999-2001,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2000,2002,20002002,2000-2002,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2001,2003,20012003,2001-2003,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2002,2004,20022004,2002-2004,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2003,2005,20032005,2003-2005,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2004,2006,20042006,2004-2006,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2005,2007,20052007,2005-2007,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2006,2008,20062008,2006-2008,g/capita/day,4,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2007,2009,20072009,2007-2009,g/capita/day,5,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2008,2010,20082010,2008-2010,g/capita/day,5,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2009,2011,20092011,2009-2011,g/capita/day,6,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2010,2012,20102012,2010-2012,g/capita/day,6,F
+MWI,130,Malawi,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,2011,2013,20112013,2011-2013,g/capita/day,7,F
+MWI,130,Malawi,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,2007,2007,per 100 square km of land area,0.7,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2000,2000,2000,2000,I$,883.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2001,2001,2001,2001,I$,818.9,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2002,2002,2002,2002,I$,812.8,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2003,2003,2003,2003,I$,838.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2004,2004,2004,2004,I$,862.4,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2005,2005,2005,2005,I$,867.7,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2006,2006,2006,2006,I$,884.2,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2007,2007,2007,2007,I$,942.3,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2008,2008,2008,2008,I$,985.8,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2009,2009,2009,2009,I$,1037.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2010,2010,2010,2010,I$,1077.5,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2011,2011,2011,2011,I$,1097.9,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2012,2012,2012,2012,I$,1087.1,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2013,2013,2013,2013,I$,1111.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2014,2014,2014,2014,I$,1142.5,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2015,2015,2015,2015,I$,1142.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2016,2016,2016,2016,I$,1139.6,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2017,2017,2017,2017,I$,1154,X
+MWI,130,Malawi,22013,"Gross domestic product per capita, PPP, dissemination (constant 2011 international $)",6126,Value,2018,2018,2018,2018,I$,1163.3,X
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,27.1,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,26.4,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,27,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,27.4,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,27.3,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,26.1,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,24.5,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,23.2,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,22.3,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,22,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,21.8,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,21.3,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,20.3,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,19,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,18.1,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,17.7,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,17.7,F
+MWI,130,Malawi,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,2016,2018,20162018,2016-2018,%,17.5,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,1999,2001,19992001,1999-2001,millions,3.1,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2000,2002,20002002,2000-2002,millions,3.1,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2001,2003,20012003,2001-2003,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2002,2004,20022004,2002-2004,millions,3.4,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2003,2005,20032005,2003-2005,millions,3.5,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2004,2006,20042006,2004-2006,millions,3.4,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2005,2007,20052007,2005-2007,millions,3.3,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2006,2008,20062008,2006-2008,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2007,2009,20072009,2007-2009,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2008,2010,20082010,2008-2010,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2009,2011,20092011,2009-2011,millions,3.3,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2010,2012,20102012,2010-2012,millions,3.3,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2011,2013,20112013,2011-2013,millions,3.3,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2012,2014,20122014,2012-2014,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2013,2015,20132015,2013-2015,millions,3.1,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2014,2016,20142016,2014-2016,millions,3.1,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2015,2017,20152017,2015-2017,millions,3.2,F
+MWI,130,Malawi,210011,Number of people undernourished (million) (3-year average),6132,Value,2016,2018,20162018,2016-2018,millions,3.3,F
+MWI,130,Malawi,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,51.7,
+MWI,130,Malawi,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,51.7,
+MWI,130,Malawi,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,2016,2018,20162018,2016-2018,%,51.7,
+MWI,130,Malawi,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,81.9,
+MWI,130,Malawi,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,2015,2017,20152017,2015-2017,%,81.9,
+MWI,130,Malawi,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,2016,2018,20162018,2016-2018,%,81.9,
+MWI,130,Malawi,210071,Number of severely food insecure people (million) (3-year average),6132,Value,2014,2016,20142016,2014-2016,millions,9.1,
+MWI,130,Malawi,210071,Number of severely food insecure people (million) (3-year average),6132,Value,2015,2017,20152017,2015-2017,millions,9.4,
+MWI,130,Malawi,210071,Number of severely food insecure people (million) (3-year average),6132,Value,2016,2018,20162018,2016-2018,millions,9.6,
+MWI,130,Malawi,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,2014,2016,20142016,2014-2016,millions,14.4,
+MWI,130,Malawi,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,2015,2017,20152017,2015-2017,millions,14.8,
+MWI,130,Malawi,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,2016,2018,20162018,2016-2018,millions,15.3,
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,3.9,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,10.1,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,10.3,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,10.6,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,5.9,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,6.9,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,1.5,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,1.6,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,1.7,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,6.9,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,1.9,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,0.8,F
+MWI,130,Malawi,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,1.2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,1.9,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,2.1,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,2.2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,2.3,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,2.3,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,2.3,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,2.2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,2.1,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,2.1,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2012,2014,20122014,2012-2014,%,2,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2013,2015,20132015,2013-2015,%,1.9,F
+MWI,130,Malawi,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,2014,2016,20142016,2014-2016,%,1.9,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,1999,2001,19992001,1999-2001,%,8,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2000,2002,20002002,2000-2002,%,17,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2001,2003,20012003,2001-2003,%,22,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2002,2004,20022004,2002-2004,%,23,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2003,2005,20032005,2003-2005,%,17,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2004,2006,20042006,2004-2006,%,15,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2005,2007,20052007,2005-2007,%,15,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2006,2008,20062008,2006-2008,%,16,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2007,2009,20072009,2007-2009,%,17,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2008,2010,20082010,2008-2010,%,19,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2009,2011,20092011,2009-2011,%,17,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2010,2012,20102012,2010-2012,%,17,F
+MWI,130,Malawi,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,2011,2013,20112013,2011-2013,%,17,F
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,2000,2000,index,-0.33,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,2002,2002,index,0,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,2003,2003,index,0.04,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,2004,2004,index,0.12,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,2005,2005,index,0.1,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,2006,2006,index,0.12,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,2007,2007,index,0.08,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,2008,2008,index,-0.06,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,2009,2009,index,0.05,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,2010,2010,index,0.04,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,2011,2011,index,-0.07,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,2012,2012,index,0,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,2013,2013,index,-0.21,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,2014,2014,index,0.08,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,2015,2015,index,0.03,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,2016,2016,index,-0.11,X
+MWI,130,Malawi,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,2017,2017,index,-0.27,X
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2000,2000,2000,2000,1000 I$,7.9,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2001,2001,2001,2001,1000 I$,12,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2002,2002,2002,2002,1000 I$,15.3,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2003,2003,2003,2003,1000 I$,18.9,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2004,2004,2004,2004,1000 I$,21.1,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2005,2005,2005,2005,1000 I$,23.2,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2006,2006,2006,2006,1000 I$,25.4,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2007,2007,2007,2007,1000 I$,12,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2008,2008,2008,2008,1000 I$,15.2,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2009,2009,2009,2009,1000 I$,15.7,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2010,2010,2010,2010,1000 I$,18.4,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2011,2011,2011,2011,1000 I$,7.7,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2012,2012,2012,2012,1000 I$,5.2,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2013,2013,2013,2013,1000 I$,8.3,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2014,2014,2014,2014,1000 I$,9.2,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2015,2015,2015,2015,1000 I$,11.4,F
+MWI,130,Malawi,21030,Per capita food production variability (constant 2004-2006 thousand int$ per capita),6127,Value,2016,2016,2016,2016,1000 I$,15.4,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,2000,2000,kcal/capita/day,33,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,2001,2001,kcal/capita/day,35,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,2002,2002,kcal/capita/day,27,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,2003,2003,kcal/capita/day,41,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,2004,2004,kcal/capita/day,63,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,2005,2005,kcal/capita/day,73,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,2006,2006,kcal/capita/day,67,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,2007,2007,kcal/capita/day,30,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,2008,2008,kcal/capita/day,27,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,2009,2009,kcal/capita/day,31,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,2010,2010,kcal/capita/day,25,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,2011,2011,kcal/capita/day,7,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,2012,2012,kcal/capita/day,10,F
+MWI,130,Malawi,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,2013,2013,kcal/capita/day,10,F
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,2000,2000,%,52.9,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,2001,2001,%,53.9,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,2002,2002,%,54.8,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,2003,2003,%,55.8,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,2004,2004,%,56.7,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,2005,2005,%,57.7,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,2006,2006,%,58.6,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,2007,2007,%,59.6,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,2008,2008,%,60.5,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,2009,2009,%,61.4,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,2010,2010,%,62.3,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,2011,2011,%,63.3,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,2012,2012,%,64.2,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,2013,2013,%,65.1,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,2014,2014,%,66.1,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,2015,2015,%,67,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,2016,2016,%,67.9,X
+MWI,130,Malawi,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,2017,2017,%,68.8,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,2000,2000,%,20.8,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,2001,2001,%,21.1,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,2002,2002,%,21.4,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,2003,2003,%,21.8,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,2004,2004,%,22.1,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,2005,2005,%,22.4,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,2006,2006,%,22.7,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,2007,2007,%,23,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,2008,2008,%,23.3,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,2009,2009,%,23.7,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,2010,2010,%,24,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,2011,2011,%,24.3,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,2012,2012,%,24.6,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,2013,2013,%,24.9,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,2014,2014,%,25.3,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,2015,2015,%,25.6,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,2016,2016,%,25.9,X
+MWI,130,Malawi,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,2017,2017,%,26.2,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,2000,2000,%,6.8,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,2004,2004,%,6.3,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,2006,2006,%,4.2,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,2009,2009,%,1.8,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,2010,2010,%,4.1,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,2014,2014,%,3.8,X
+MWI,130,Malawi,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,2015,2015,%,2.7,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2000,2000,2000,2000,%,54.6,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2004,2004,2004,2004,%,52.5,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2006,2006,2006,2006,%,53.2,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2009,2009,2009,2009,%,48.8,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2010,2010,2010,2010,%,47.8,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2014,2014,2014,2014,%,42.4,X
+MWI,130,Malawi,21025,Percentage of children under 5 years of age who are stunted (percent),6121,Value,2015,2015,2015,2015,%,37.1,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2000,2000,2000,2000,%,8.8,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2004,2004,2004,2004,%,10.2,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2006,2006,2006,2006,%,11.3,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2009,2009,2009,2009,%,4.9,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2010,2010,2010,2010,%,9.2,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2014,2014,2014,2014,%,5.1,X
+MWI,130,Malawi,21041,Percentage of children under 5 years of age who are overweight (percent),6121,Value,2015,2015,2015,2015,%,4.5,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2000,2000,2000,2000,%,2.2,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2001,2001,2001,2001,%,2.3,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2002,2002,2002,2002,%,2.4,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2003,2003,2003,2003,%,2.6,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2004,2004,2004,2004,%,2.7,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2005,2005,2005,2005,%,2.8,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2006,2006,2006,2006,%,3,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2007,2007,2007,2007,%,3.1,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2008,2008,2008,2008,%,3.3,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2009,2009,2009,2009,%,3.4,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2010,2010,2010,2010,%,3.6,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2011,2011,2011,2011,%,3.7,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2012,2012,2012,2012,%,3.9,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2013,2013,2013,2013,%,4.1,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2014,2014,2014,2014,%,4.3,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2015,2015,2015,2015,%,4.5,X
+MWI,130,Malawi,21042,Prevalence of obesity in the adult population (18 years and older),6121,Value,2016,2016,2016,2016,%,4.7,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2000,2000,2000,2000,%,36.2,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2001,2001,2001,2001,%,35.9,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2002,2002,2002,2002,%,35.8,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2003,2003,2003,2003,%,35.7,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2004,2004,2004,2004,%,35.5,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2005,2005,2005,2005,%,35.2,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2006,2006,2006,2006,%,34.7,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2007,2007,2007,2007,%,34,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2008,2008,2008,2008,%,33.3,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2009,2009,2009,2009,%,32.7,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2010,2010,2010,2010,%,32.3,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2011,2011,2011,2011,%,32.2,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2012,2012,2012,2012,%,32.3,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2013,2013,2013,2013,%,32.6,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2014,2014,2014,2014,%,33,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2015,2015,2015,2015,%,33.6,X
+MWI,130,Malawi,21043,Prevalence of anemia among women of reproductive age (15-49 years),6121,Value,2016,2016,2016,2016,%,34.4,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2000,2000,2000,2000,%,44,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2004,2004,2004,2004,%,52.3,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2006,2006,2006,2006,%,56.7,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2010,2010,2010,2010,%,70.8,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2013,2013,2013,2013,%,69,X
+MWI,130,Malawi,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age,6121,Value,2015,2015,2015,2015,%,59.4,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,2000,2000,%,17.2,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,2001,2001,%,16.9,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,2002,2002,%,16.5,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,2003,2003,%,16.2,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,2004,2004,%,16,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,2005,2005,%,15.8,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,2006,2006,%,15.6,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,2007,2007,%,15.5,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,2008,2008,%,15.4,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,2009,2009,%,15.3,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,2010,2010,%,15.2,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,2011,2011,%,15,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,2012,2012,%,14.9,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,2013,2013,%,14.7,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,2014,2014,%,14.6,X
+MWI,130,Malawi,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,2015,2015,%,14.5,X
